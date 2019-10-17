@@ -20,6 +20,31 @@ git nota "Introduction to Packet Tracer. - Networking Academy by Cisco" &&
 git sube
 sleep 2
 echo "Archivo(s) de exploracion subido"
+# Contents
+git add ../contents/chapter1.html &&
+git nota "Capítulo 1 - Intro Packet Tracer" &&
+git sube 
+git add ../contents/chapter2.html &&
+git nota "Capítulo 2 - Intro Packet Tracer" &&
+git sube 
+git add ../contents/chapter3.html &&
+git nota "Capítulo 3 - Intro Packet Tracer" &&
+git sube 
+git add ../contents/chapter4.html &&
+git nota "Capítulo 4 - Intro Packet Tracer" &&
+git sube 
+git add ../contents/chapter5.html &&
+git nota "Capítulo 5 - Intro Packet Tracer" &&
+git sube 
+git add ../contents/chapter6.html &&
+git nota "Capítulo 6 - Intro Packet Tracer" &&
+git sube 
+git add ../contents/chapter7.html &&
+git nota "Capítulo 7 - Intro Packet Tracer" &&
+git sube 
+git add ../contents/chapter8.html &&
+git nota "Capítulo 8 - Intro Packet Tracer" &&
+git sube 
 # Imagenes
 git add ../images/. &&
 git nota "Media - img" &&
