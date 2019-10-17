@@ -1,6 +1,6 @@
 
 #!/bin/sh
-
+clear
 # Modificacion del script
 git add subida.sh &&
 git nota "Script de subida de archivos" &&
