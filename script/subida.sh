@@ -5,6 +5,10 @@ clear
 git add subida.sh &&
 git nota "Script de subida de archivos" &&
 git sube
+# README.md
+git add README.md &&
+git nota "Intro to Packet Tracer - Networking Academy by Cisco - Beca Cisco" &&
+git sube
 # Modificacion de estilo y config. página
 # Estilo
 git add ../assets/css/. &&
