@@ -6,6 +6,6 @@
     <li> Page Favicon: https://www.flaticon.es </li>
     <li> Page Images: https://pixabay.com/es </li>
 </ul>
-@Description: Introduction Packet Tracer in Cisco Academy.
+<strong>@Description:</strong>Introduction Packet Tracer in Cisco Academy. <br>
 @Author: Chunche95.
 </p>
