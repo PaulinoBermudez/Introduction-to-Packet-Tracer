@@ -7,5 +7,5 @@
     <li> Page Images: https://pixabay.com/es </li>
 </ul>
 <strong>@Description:</strong>Introduction Packet Tracer in Cisco Academy. <br>
-@Author: Chunche95.
+<strong>@Author:</strong> Chunche95.
 </p>
