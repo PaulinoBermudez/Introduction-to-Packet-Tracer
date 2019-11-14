@@ -1,4 +1,4 @@
-# <img src="images/Introduction.png">
+<img src="images/Introduction.png">
 <br>
 <p>
 <ul>
